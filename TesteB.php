@@ -1,4 +1,4 @@
 <?php
-class TesteB {
-
+class TesteB { 
+  private $name;
 }
